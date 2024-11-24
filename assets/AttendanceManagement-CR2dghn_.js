@@ -1,0 +1,1 @@
+import{j as t}from"./index-Bvi5AaG_.js";import"./DefaultLayout-Cii11zlu.js";import"./index.esm-PqmBDI7d.js";import"./Logo-with-text-Nb4Mq-Ol.js";import"./cil-user-Dlmw-Gem.js";const o=()=>t.jsx("h1",{children:"Attendance Management"});export{o as default};
